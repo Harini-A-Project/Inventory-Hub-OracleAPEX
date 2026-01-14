@@ -16,4 +16,23 @@ This project demonstrates how to take external data and present it through a pro
 
 ### 📸 Preview
 
+**Login Page**
+![Login Page](LOGIN%20PAGE.jpeg)
 
+**Home Page**
+![Login Page](HOME%20PAGE.jpeg)
+
+**Main Dashboard**
+![Dashboard](DASHBOARD.jpeg)
+
+**Inventory Report**
+![Report](REPORT.jpeg)
+
+**Inventory Search**
+![Report](SEARCH.jpeg)
+
+**Calendar View**
+![Calendar](CALENDER.jpeg)
+
+**Calendar View**
+![Calendar](CALENDER.jpeg)
