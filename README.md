@@ -34,5 +34,3 @@ This project demonstrates how to take external data and present it through a pro
 **Calendar View**
 ![Calendar](CALENDER.jpeg)
 
-**Calendar View**
-![Calendar](CALENDER.jpeg)
